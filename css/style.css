@@ -1,3 +1,6 @@
+body {
+ background-color:white !important;
+}
 p, h1 {
  font-family: 'Droid Sans', sans-serif;
 }
@@ -5,9 +8,9 @@ p, h1 {
 /*NAVIGATION*/
 
 .navbar {
- background-color:#242424;
- border-bottom:1px solid #b9b9b9;
- font-family: 'Lato', sans-serif;
+ background-color:#242424 !important;
+ border-bottom:1px solid #b9b9b9 !important;
+ font-family: 'Lato', sans-serif !important;
 }
 
 .navbar a {
@@ -21,7 +24,7 @@ p, h1 {
 
 .navbar-header .navbar-brand {
  color:white !important;
- font-size:1.5em;
+ font-size:1.5em !important;
 }
 
 .navbar-default .nav li.active a {
@@ -89,13 +92,13 @@ p, h1 {
 }
 
 .about h1 {
- font-size: 1.8em;
- color: #337ab7;
- padding: 0 0 25px;
+ font-size: 1.8em !important;
+ color: #337ab7 !important;
+ padding: 0 0 25px !important;
 }
 
 .about p {
- padding-bottom:25px;
+ padding-bottom:25px !important;
 }
 
 
