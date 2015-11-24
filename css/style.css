@@ -7,7 +7,19 @@ p, h1 {
 
 .clientheader {
  background-color:lightblue !important;
+ background-color: lightblue;
 }
+
+.contribheader {
+ margin: 5px 12px 5px 12px; !important;
+ background-color: lightblue;
+}
+
+.table-striped>tr:nth-child(odd){
+ background-color:darkblue !important;
+}
+
+.selected { background-color: darkred !important; }
 /*NAVIGATION*/
 
 .navbar {
@@ -90,8 +102,9 @@ p, h1 {
 /*ABOUT*/
 
 .about {
- padding: 100px 0 100px;
- text-align: center;
+ background-color: skyblue;
+ padding: 10px 0 10px;
+ text-align: justify;
 }
 
 .about h1 {
@@ -101,7 +114,11 @@ p, h1 {
 }
 
 .about p {
- padding-bottom:25px !important;
+ padding-bottom:5px !important;
+ font-size:3.8.em;
+ font-weight:bold;
+ line-height: 200%;
+ color:#242424;
 }
 
 
@@ -113,7 +130,7 @@ p, h1 {
  font-size:1.8.em;
  font-weight:bold;
  color:#242424;
- padding:90px 0 90px;
+ padding:1px 0 10px;
 }
 
 .features h1 {
@@ -158,6 +175,7 @@ p, h1 {
  padding:10px 0 10px;
  text-align:left;
  color:#242424;
+ line-height: 200%;
 }
 
 .screenshots img {
@@ -167,6 +185,27 @@ p, h1 {
 .screenshots h1 {
  font-size:2em;
 }
+
+.screenshots a {
+ float: right;
+ vertical-align: middle !important;
+}
+.professionalexperience {
+ #background-color:skyblue;
+ padding:10px 0 10px;
+ text-align:left;
+ color:#242424;
+ line-height: 90%;
+}
+
+.professionalexperience img {
+ padding: 20px 0 20px;
+}
+
+.professionalexperience h1 {
+ font-size:2em;
+}
+
 
 /*REVIEWS*/
 
