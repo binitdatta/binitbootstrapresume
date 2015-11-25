@@ -10,6 +10,35 @@ p, h1 {
  background-color: lightblue;
 }
 
+.col-xs-2, .col-xs-10, .col-lg-12 .col-md-12{
+ display: inline-block;
+ float: none;
+}
+.col-xs-10 {
+ vertical-align: middle;
+}
+
+.col-lg-12 {
+ vertical-align: middle !important;
+}
+
+.col-md-12 {
+ vertical-align: middle !important;
+}
+.btn-alignaaaaaaaaaaaaaaaaaaaaaaaa {
+ vertical-align: middle !important;
+}
+
+.search{
+ padding 0 10px;
+ font-size:0.8em;
+ **line-height: 0.8em;**
+float:right;
+ height:100%;
+ display:table;
+ vertical-align:middle;
+}
+
 .contribheader {
  margin: 5px 12px 5px 12px; !important;
  background-color: lightblue;
@@ -196,6 +225,10 @@ p, h1 {
  text-align:left;
  color:#242424;
  line-height: 90%;
+}
+
+.professionalexperience a {
+ vertical-align: middle;
 }
 
 .professionalexperience img {
