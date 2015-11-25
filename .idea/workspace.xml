@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e20c0ea-70b2-430e-b13c-c51917ec7efe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="binit-landing-page.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.95072466">
-              <caret line="2542" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="2731" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.38405797">
+              <caret line="2447" column="93" selection-start-line="2447" selection-start-column="40" selection-end-line="2447" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -307,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95072466">
-          <caret line="2542" column="37" selection-start-line="0" selection-start-column="0" selection-end-line="2731" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.38405797">
+          <caret line="2447" column="93" selection-start-line="2447" selection-start-column="40" selection-end-line="2447" selection-end-column="93" />
           <folding />
         </state>
       </provider>
